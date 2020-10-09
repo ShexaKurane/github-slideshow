@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ----
-Hola caracola, estas sentada en tu cola :D
+Hola crayola, te huele la cola :D
 Use the left arow to go back!
